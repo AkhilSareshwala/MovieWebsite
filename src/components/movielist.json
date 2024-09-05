@@ -1,0 +1,157 @@
+[
+  {
+    "name": "12th Fail",
+    "image": "/images/12th-fail-.jpg",
+    "backgroundImage": "https://image.tmdb.org/t/p/w1920/8aT8G8XJzL7n0ys3BGHXeWxJ2Xl.jpg",
+    "ratingImage": "https://www.pngkit.com/png/full/73-734975_star-rating.png",
+    "rating": "4.7/5",
+    "type": "2D",
+    "categories": "Drama, U, 27 Oct, 2023",
+    "description": "Based on Anurag Pathak's bestselling novel, '12th Fail' follows the inspiring journey of a young student struggling against the odds to succeed in life.",
+    "director": "Vidhu V. Chopra",
+    "cast": [
+      {
+        "name": "Vikrant Massey",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Vikrant_Massey.jpg/800px-Vikrant_Massey.jpg"
+      },
+      {
+        "name": "Harish Khanna",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Harish_Khanna.jpg/800px-Harish_Khanna.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Vidhu V. Chopra",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Vidhu_Vinod_Chopra_in_2014.jpg/800px-Vidhu_Vinod_Chopra_in_2014.jpg"
+      },
+      {
+        "name": "Zee Studios",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Zee_Studios_International_logo.jpg/800px-Zee_Studios_International_logo.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Animal",
+    "image": "/images/animal.jpg",
+    "backgroundImage": "https://image.tmdb.org/t/p/w1920/tz8ch7PRztT0rWxFtxOYhExrzZu.jpg",
+    "ratingImage": "https://www.pngkit.com/png/full/73-734975_star-rating.png",
+    "rating": "4.5/5",
+    "type": "2D",
+    "categories": "Action, Thriller, U/A, 1 Dec, 2023",
+    "description": "A violent and gripping tale of family betrayal, crime, and redemption, set against the dark underbelly of the city.",
+    "director": "Sandeep Reddy Vanga",
+    "cast": [
+      {
+        "name": "Ranbir Kapoor",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ranbir_Kapoor_2016.jpg/800px-Ranbir_Kapoor_2016.jpg"
+      },
+      {
+        "name": "Anil Kapoor",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Anil_Kapoor.jpg/800px-Anil_Kapoor.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Sandeep Reddy Vanga",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Sandeep_Reddy_Vanga.jpg/800px-Sandeep_Reddy_Vanga.jpg"
+      },
+      {
+        "name": "Bhushan Kumar",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bhushan_Kumar.jpg/800px-Bhushan_Kumar.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Jawan",
+    "image": "/images/jawan.jpeg",
+    "backgroundImage": "https://image.tmdb.org/t/p/w1920/v3clPO9drnxZcETNshDSK9t18Vp.jpg",
+    "ratingImage": "https://www.pngkit.com/png/full/73-734975_star-rating.png",
+    "rating": "4.8/5",
+    "type": "2D",
+    "categories": "Action, Drama, U/A, 7 Sep, 2023",
+    "description": "An emotional roller-coaster with action-packed sequences, 'Jawan' showcases the story of a man determined to fight against societal injustice.",
+    "director": "Atlee Kumar",
+    "cast": [
+      {
+        "name": "Shah Rukh Khan",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Shah_Rukh_Khan_%28cropped%29.jpg/800px-Shah_Rukh_Khan_%28cropped%29.jpg"
+      },
+      {
+        "name": "Nayanthara",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Nayanthara.jpg/800px-Nayanthara.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Atlee Kumar",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Atlee_Kumar.jpg/800px-Atlee_Kumar.jpg"
+      },
+      {
+        "name": "Gauri Khan",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Gauri_Khan.jpg/800px-Gauri_Khan.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Tiger 3",
+    "image": "/images/tiger3.jpg",
+    "backgroundImage": "https://image.tmdb.org/t/p/w1920/vwdHhEr9wTeHzW6XazcXwInV8l0.jpg",
+    "ratingImage": "https://www.pngkit.com/png/full/73-734975_star-rating.png",
+    "rating": "4.6/5",
+    "type": "2D",
+    "categories": "Action, Adventure, U/A, 10 Nov, 2023",
+    "description": "Tiger is back on a mission that will take him across continents, facing new challenges and enemies.",
+    "director": "Maneesh Sharma",
+    "cast": [
+      {
+        "name": "Salman Khan",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Salman_Khan.jpg/800px-Salman_Khan.jpg"
+      },
+      {
+        "name": "Katrina Kaif",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Katrina_Kaif_2017.jpg/800px-Katrina_Kaif_2017.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Maneesh Sharma",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Maneesh_Sharma.jpg/800px-Maneesh_Sharma.jpg"
+      },
+      {
+        "name": "Yash Raj Films",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Yash_Raj_Films_logo.jpg/800px-Yash_Raj_Films_logo.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Pushpa 2: The Rule",
+    "image": "/images/p.jpeg",
+    "backgroundImage": "https://image.tmdb.org/t/p/w1920/4qrx2O6FCP0JFlZHc3fQVuHw3N3.jpg",
+    "ratingImage": "https://www.pngkit.com/png/full/73-734975_star-rating.png",
+    "rating": "4.9/5",
+    "type": "2D",
+    "categories": "Action, Drama, U/A, 15 Aug, 2024",
+    "description": "The journey of Pushpa continues, filled with new challenges, rivals, and the struggle for power.",
+    "director": "Sukumar",
+    "cast": [
+      {
+        "name": "Allu Arjun",
+        "image": "https://image.tmdb.org/t/p/w1280/y9LkGB9Mi5VUXv4LXGoy7y4sGJt.jpg"
+      },
+      {
+        "name": "Rashmika Mandanna",
+        "image": "https://image.tmdb.org/t/p/w1280/kwlw6WrUwnzy.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Sukumar",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Sukumar.jpg/800px-Sukumar.jpg"
+      },
+      {
+        "name": "Mythri Movie Makers",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Mythri_Movie_Makers_logo.png/800px-Mythri_Movie_Makers_logo.png"
+      }
+    ]
+  }
+]
